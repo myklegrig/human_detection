@@ -6,9 +6,9 @@
 
 3. Create project directory
 
-4. Unzip archive to  project directory
+4. Unzip archive "faster_rcnn_inception_v2_coco_2018_01_28.tar.gz"  to  project directory
 
-5. In the file tf_detection.py, enter your paths to the model and to the input video
+5. In the file "tf_detection.py", enter your paths to the model and to the input video
 
-6. Run processing with 
+6. Run processing with:
     python3 tf_detection.py
